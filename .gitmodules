@@ -1,0 +1,3 @@
+[submodule "demos/web-mapping"]
+	path = demos/web-mapping
+	url = https://github.com/MarcAlx/snowcamp.io-2023-webmapping-demo
